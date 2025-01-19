@@ -36,6 +36,7 @@ var (
 			},
 		},
 	}
+	
 )
 
 func runGenerateActionsRunnerToken(c *cli.Context) error {
