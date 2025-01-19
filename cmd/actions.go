@@ -32,7 +32,7 @@ var (
 				Name:    "scope",
 				Aliases: []string{"s"},
 				Value:   "",
-				Usage:   "{owner}[/{repo}] - leave empty for a global runner",
+				Usage:   "{owner}[/{repo}] - leave empty for a global runner   ",
 			},
 		},
 	}
